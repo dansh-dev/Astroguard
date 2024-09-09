@@ -4,7 +4,7 @@ This is the repository for all Astroguard code
 Theres a few sections to this repo:
 
 1) The command centre files
-2) The ESP32 boards project
+2) The ESP32 boards projects
 3) The AI CCTV code files
 
 The command centre makes use of a local mongodb instance at localhost:27017
