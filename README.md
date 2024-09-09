@@ -21,7 +21,10 @@ The map will not be displaying at this moment. So there is also a map setup proc
 You will need to install this module that facilitate the hosting of the map.
 npm install -g tileserver-gl
 
-Theres a directory called tileserver and you'll need to cd into it and run the following command:
+You must download the tileserver from my google drive as github doesn't allow uploads of large files:
+https://drive.google.com/drive/folders/1jgaGlPU7mm3kZvkFpO1aBx46c5OBSf45?usp=sharing
+
+Just cd into it and run the following command to initialize the map:
 
 
 Finally the UI service, this is the interface folder, cd into it and install the node_modules using the package.json file
