@@ -25,7 +25,7 @@ You must download the tileserver from my google drive as github doesn't allow up
 https://drive.google.com/drive/folders/1jgaGlPU7mm3kZvkFpO1aBx46c5OBSf45?usp=sharing
 
 Just cd into it and run the following command to initialize the map:
-
+tileserver-gl-light --config config.json --verbose -p 8000
 
 Finally the UI service, this is the interface folder, cd into it and install the node_modules using the package.json file
 Then the UI runs by executing:
