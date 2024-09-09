@@ -27,7 +27,11 @@ https://drive.google.com/drive/folders/1jgaGlPU7mm3kZvkFpO1aBx46c5OBSf45?usp=sha
 Just cd into it and run the following command to initialize the map:
 tileserver-gl-light --config config.json --verbose -p 8000
 
-Finally the UI service, this is the interface folder, cd into it and install the node_modules using the package.json file
+Next the UI service, this is the interface folder, cd into it and install the node_modules using the package.json file
 Then the UI runs by executing:
 
 npm run serve
+
+And finally to test the AI CCTV camera you need to activate the venv using source cam/bin/activate
+Then you may install the packages by using the requirements.txt file once that it done you can
+run the program by executing python detect.py
