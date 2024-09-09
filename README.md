@@ -16,6 +16,10 @@ You may then run the flask server by executing:
 
 python ./app.py
 
+Tests can be run by executing this command:
+
+python ./tests.py
+
 The map will not be displaying at this moment. So there is also a map setup procedure
 
 You will need to install this module that facilitate the hosting of the map.
